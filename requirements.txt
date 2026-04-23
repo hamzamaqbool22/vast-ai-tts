@@ -1,9 +1,9 @@
 fastapi
 uvicorn[standard]
-transformers
-accelerate
-torch
-huggingface_hub
+qwen-tts
 soundfile
 scipy
 python-multipart
+torch
+huggingface_hub
+flash-attn
